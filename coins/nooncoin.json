@@ -1,0 +1,13 @@
+{
+    "name": "Nooncoin",
+    "symbol": "NOON",
+    "algorithm": "yescryptR16",
+    "peerMagic": "fdd910ce",
+    "peerMagicTestnet": "4e1970af",
+    "txfee": 0.0001,
+    "blockTime": 90,
+    "explorer": {
+        "txURL": "http://chain.nooncoin.com/tx/",
+        "blockURL": "http://chain.nooncoin.com/block/"
+    }
+}
